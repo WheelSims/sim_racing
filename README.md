@@ -1,3 +1,3 @@
-# sim_generic
+# sim_racing
 
-Simulator template that includes every submodule, not tied to a specific hardware.
+WheelSims code for the UQAM's wheelchair racing simulator.
