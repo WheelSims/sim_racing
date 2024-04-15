@@ -19,3 +19,6 @@
 [submodule "Unity/vr_art_source"]
 	path = Unity/vr_art_source
 	url = https://github.com/WheelSims/vr_art_source.git
+[submodule "Unity/Assets/vr_native_websocket"]
+	path = Unity/Assets/vr_native_websocket
+	url = https://github.com/WheelSims/vr_native_websocket.git
