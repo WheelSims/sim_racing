@@ -22,3 +22,6 @@
 [submodule "Unity/Assets/vr_native_websocket"]
 	path = Unity/Assets/vr_native_websocket
 	url = https://github.com/WheelSims/vr_native_websocket.git
+[submodule "InstrumentedWheels/instrumented_wheels_common"]
+	path = InstrumentedWheels/instrumented_wheels_common
+	url = https://github.com/WheelSims/instrumented_wheels_common.git
